@@ -55,5 +55,4 @@ Skilled in Python, React, Node.js, Flutter, Django, and Machine Learning
 
 ---
 
-## 🌟 Contributions
 
